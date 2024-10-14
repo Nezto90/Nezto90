@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<h1 aling="Center">Bienvenido a mi perfil profecional, Mi Nombre es Carlos Ernesto Jurárez Hernández</h1>
+<h2 aling="Center">Programador en Entonso Virtuales y Negocios Digitales</h2>
+<p aling="Center"><img src="https://raw.githubusercontent.com/Nezto90/Nezto90/refs/heads/main/OIP%20(2).jpg"></img></p>
 <!--
 **Nezto90/Nezto90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

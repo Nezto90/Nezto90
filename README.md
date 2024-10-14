@@ -1,9 +1,8 @@
 <h1 aling="Center">Bienvenido a mi perfil profecional, Mi Nombre es Carlos Ernesto Jurárez Hernández</h1>
 <h2 aling="Center">Programador en Entonso Virtuales y Negocios Digitales</h2>
 <p aling="Center"><img src="https://raw.githubusercontent.com/Nezto90/Nezto90/refs/heads/main/OIP%20(2).jpg"></img></p>
-<p aling="Center"><img src="https://giphy.com/embed/h10tqbDSy3Doc"></img></p>
+<p aling="Center"><img src="https://th.bing.com/th/id/R.78024a9ce87014b852f319b4f3c8f6ea?rik=joBD6sHiI0Xdlg&riu=http%3a%2f%2fwww.solucionespm.com%2fwp-content%2fuploads%2f2015%2f11%2ftumblr_nnonb3fOAf1qz8q0ho1_1280.gif&ehk=vmTrlmF%2bFWMMalgHmvVg0%2friSO75dtYb76%2b7LmitueI%3d&risl=&pid=ImgRaw&r=0"></img></p>
 
-<iframe src="https://giphy.com/embed/h10tqbDSy3Doc" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gravy-h10tqbDSy3Doc">via GIPHY</a></p>
 <!--
 **Nezto90/Nezto90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

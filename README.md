@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil Profesional</title>
-   
-</head>
-<body>
-
-<div class="container">
-    <div class="profile-header">
-        <img src="profile_picture.jpg" alt="Foto de perfil">
+<img src="profile_picture.jpg" alt="Foto de perfil">
         <h1>Programador para Entornos Virtuales</h1>
     </div>
     <div class="skills">

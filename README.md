@@ -40,11 +40,11 @@
     <div class="contact">
         <h2 class="section-title">Contacto</h2>
         <ul>
-            <li>Email: tu_correo@example.com</li>
-            <li>Teléfono: 123-456-7890</li>
+            <li>Email: carlosernestojuarez647@gmail.com</li>
+            <li>Teléfono: 2471043660</li>
         </ul>
         <div class="social-links">
-            <a href="#"><img src="twitter_icon.png" alt="Twitter"></a>
+            <a href="#"><img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/instagram_black_logo_icon_147122.png" alt="Twitter"></a>
             <a href="#"><img src="linkedin_icon.png" alt="LinkedIn"></a>
         </div>
     </div>

@@ -44,7 +44,7 @@
             <li>Teléfono: 2471043660</li>
         </ul>
         <div class="social-links">
-            <a href="#"><img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/instagram_black_logo_icon_147122.png" alt="Twitter"></a>
+            <a href="#" weight="20" height="20"><img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/instagram_black_logo_icon_147122.png" alt="Twitter"></a>
             <a href="#"><img src="linkedin_icon.png" alt="LinkedIn"></a>
         </div>
     </div>

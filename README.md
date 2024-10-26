@@ -1,4 +1,4 @@
-<img src="profile_picture.jpg" alt="Foto de perfil">
+<img src="IMG_8329.jpg" alt="Foto de perfil" aling="center">
         <h1>Programador para Entornos Virtuales</h1>
     </div>
     <div class="skills">

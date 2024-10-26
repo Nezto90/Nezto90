@@ -1,5 +1,6 @@
-<img src="IMG_8329.jpg" alt="Foto de perfil" aling="center">
-        <h1>Programador para Entornos Virtuales</h1>
+<img src="banner.png" alt="Foto de perfil" aling="center">
+        <h1>Carlos Ernesto Juárez Hernandez</h1>
+        <img src="IMG_8329.jpg" alt="Foto de perfil" aling="center"
     </div>
     <div class="skills">
         <h2 class="section-title">Habilidades</h2>

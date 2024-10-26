@@ -25,7 +25,8 @@
         </div>
         <div class="project-card">
             <h3>Proyecto 2</h3>
-            <p>Descripción del proyecto. Enlace al repositorio.</p>
+            <p>Desarrollo de aplicación de realidad aumentada para la empresa AGAPSA.
+                   <video src="AQOmp2793hr2MHxaJAK2GCxMSRdtkIYT59dHlE5EiEtfuD9kf4nlZyOQKsytDwc8Y-hNKu7KpyZGr_fzlrT-TLwM.mp4" autoplay></video> .</p>
         </div>
         <div class="project-card">
             <h3>Proyecto 3</h3>

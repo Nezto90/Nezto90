@@ -26,16 +26,8 @@
         </div>
         <div class="project-card">
             <h3>Proyecto 2</h3>
-            <p>Desarrollo de aplicación de realidad aumentada para la empresa AGAPSA.</p>
-           <img src="WhatsApp Image 2024-08-07 at 9.59.05 AM.jpeg" alt="Foto de perfil">
-        </div>
-        <div class="project-card">
-            <h3>Proyecto 3</h3>
-            <p>Descripción del proyecto. Enlace al repositorio.</p>
-        </div>
-        <div class="project-card">
-            <h3>Proyecto 4</h3>
-            <p>Descripción del proyecto. Enlace al repositorio.</p>
+            <p>Desarrollo de aplicación de realidad aumentada para la empresa AGAPSA. Link del APK: https://drive.google.com/file/d/1uANbifbSAIuOSbjcR_9g2m_Kt7kLQDya/view?usp=drive_link</p>
+           <img src="Captura de pantalla 2024-10-26 141400.png" alt="Foto de perfil">
         </div>
     </div>
     <div class="contact">
@@ -45,8 +37,7 @@
             <li>Teléfono: 2471043660</li>
         </ul>
         <div class="social-links">
-            <a href="#" ><img src="https://cdn.icon-icons.com/icons2/791/PNG/512/instagram_f_icon-icons.com_65485.png" alt="Twitter" width="20" height="20"></a>
-            <a href="#"><img src="linkedin_icon.png" alt="LinkedIn"></a>
+            <a href="https://x.com/NeztoGGz?t=tvG4_27QTH0-YHDe5krv5w&s=09" ><img src="icons8-twitterx-48.png" alt="Twitter" width="20" height="20"></a>
         </div>
     </div>
 </div>

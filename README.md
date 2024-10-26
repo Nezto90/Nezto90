@@ -4,25 +4,24 @@
     <div class="skills">
         <h2 class="section-title">Habilidades</h2>
         <ul>
-            <li>Lenguajes de programación: JavaScript, Python, HTML, CSS</li>
-            <li>Cursos, Congresos y Seminarios: Curso avanzado de JavaScript, Congreso de IA</li>
-            <li>Idiomas: Español, Inglés</li>
-            <li>Data de interés: Machine Learning, Desarrollo de aplicaciones web</li>
-            <li>Experiencia en proyectos: Desarrollo de aplicaciones para clientes, creación de APIs</li>
+            <li>Lenguajes de programación:HTML, CSS, C#</li>
+            <li>Idiomas: Español, Inglés A2</li>
+            <li>Data de interés: Machine Learning, Desarrollo de aplicaciones web, Desarrollo de aplicaciones AR</li>
+            <li>Experiencia en proyectos: Desarrollo de aplicaciones web para clientes,Desarrollo de aplicaciones AR para clientes </li>
         </ul>
     </div>
     <div class="education">
         <h2 class="section-title">Formación Académica</h2>
         <ul>
-            <li>Grado en Ingeniería Informática</li>
-            <li>Certificación en Desarrollo Web</li>
+            <li>Grado en Tecnico en Entornos Virtuales</li>
         </ul>
     </div>
     <div class="projects">
         <h2 class="section-title">Proyectos</h2>
         <div class="project-card">
             <h3>Proyecto 1</h3>
-            <p>Descripción del proyecto. Enlace al repositorio.</p>
+            <p>Desarollo de aplicación movil para la enfermeria UTT
+                    <img src="IMG_8329.jpg" alt="Foto de perfil"> .</p>
         </div>
         <div class="project-card">
             <h3>Proyecto 2</h3>

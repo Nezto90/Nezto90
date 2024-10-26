@@ -4,7 +4,7 @@
     <div class="skills">
         <h2 class="section-title">Habilidades</h2>
         <ul>
-            <li>Lenguajes de programación:HTML, CSS, C#</li>
+            <li>Lenguajes de programación:HTML, CSS, C#, R, Flutter</li>
             <li>Idiomas: Español, Inglés A2</li>
             <li>Data de interés: Machine Learning, Desarrollo de aplicaciones web, Desarrollo de aplicaciones AR</li>
             <li>Experiencia en proyectos: Desarrollo de aplicaciones web para clientes,Desarrollo de aplicaciones AR para clientes </li>
@@ -21,7 +21,7 @@
         <div class="project-card">
             <h3>Proyecto 1</h3>
             <p>Desarollo de aplicación movil para la enfermeria UTT
-                    <img src="IMG_8329.jpg" alt="Foto de perfil"> .</p>
+                    <img src="WhatsApp Image 2024-08-07 at 9.59.05 AM.jpeg" alt="Foto de perfil"> .</p>
         </div>
         <div class="project-card">
             <h3>Proyecto 2</h3>

@@ -25,8 +25,8 @@
         </div>
         <div class="project-card">
             <h3>Proyecto 2</h3>
-            <p>Desarrollo de aplicación de realidad aumentada para la empresa AGAPSA.
-                   <video src="AQOmp2793hr2MHxaJAK2GCxMSRdtkIYT59dHlE5EiEtfuD9kf4nlZyOQKsytDwc8Y-hNKu7KpyZGr_fzlrT-TLwM.mp4" autoplay></video> .</p>
+            <p>Desarrollo de aplicación de realidad aumentada para la empresa AGAPSA.</p>
+           <img src="WhatsApp Image 2024-08-07 at 9.59.05 AM.jpeg" alt="Foto de perfil">
         </div>
         <div class="project-card">
             <h3>Proyecto 3</h3>

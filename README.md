@@ -35,6 +35,7 @@
         <ul>
             <li>Email: carlosernestojuarez647@gmail.com</li>
             <li>Teléfono: 2471043660</li>
+        <a href="https://drive.google.com/file/d/1fbVIUIROO0qCOThbI30826sFr74TaeiS/view?usp=drive_link">Curriculum</a>                                                         
         </ul>
         <div class="social-links">
             <a href="https://x.com/NeztoGGz?t=tvG4_27QTH0-YHDe5krv5w&s=09" ><img src="icons8-twitterx-48.png" alt="Twitter" width="20" height="20"></a>

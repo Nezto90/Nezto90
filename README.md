@@ -1,6 +1,14 @@
 <img src="banner.png" alt="Foto de perfil" aling="center">
-        <h1>Carlos Ernesto Juárez Hernandez</h1>
+        <h1>Carlos Ernesto Juárez Hernandez - Desarrollador De Software</h1>
         <img src="IMG_8329.jpg" alt="Foto de perfil" aling="center"
+    </div>
+     <div class="me">
+        <h2 class="section-title">Quien Soy?</h2>
+        <ul>
+            <li>Soy una persona con experiencia en análisis de datos y machine learning, con un enfoque en la mejora de procesos mediante el uso de herramientas avanzadas y metodologías ágiles. He trabajado en proyectos que involucran el desarrollo de soluciones de software, desde aplicaciones web hasta plataformas interactivas, con un dominio de herramientas como Google Colab, Flutter y Firebase. Poseo sólidos conocimientos en el diseño y desarrollo de interfaces de usuario, además de tener una gran capacidad para resolver problemas mediante la implementación de modelos de machine learning.
+
+Actualmente, me encuentro desarrollando un proyecto propio llamado GONORT TECH, una plataforma de comercio electrónico y servicios relacionados con accesorios y reparaciones de celulares, donde utilizo mis habilidades tanto en desarrollo web como en optimización de bases de datos y autentificación de usuarios a través de Firebase.</li> 
+        </ul>
     </div>
     <div class="skills">
         <h2 class="section-title">Habilidades</h2>
@@ -35,7 +43,7 @@
         <ul>
             <li>Email: carlosernestojuarez647@gmail.com</li>
             <li>Teléfono: 2471043660</li>
-        <a href="https://drive.google.com/file/d/1fbVIUIROO0qCOThbI30826sFr74TaeiS/view?usp=drive_link">Curriculum</a>                                                         
+        <a href="https://drive.google.com/file/d/1fbVIUIROO0qCOThbI30826sFr74TaeiS/view?usp=drive_link">Curriculum_PDF</a>                                                         
         </ul>
         <div class="social-links">
             <a href="https://x.com/NeztoGGz?t=tvG4_27QTH0-YHDe5krv5w&s=09" ><img src="icons8-twitterx-48.png" alt="Twitter" width="20" height="20"></a>

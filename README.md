@@ -3,7 +3,7 @@
         <img src="IMG_8329.jpg" alt="Foto de perfil" aling="center"
     </div>
      <div class="me">
-        <h2 class="section-title">Quien Soy?</h2>
+        <h2 class="section-title">Quien Soy</h2>
         <ul>
             <li>Soy una persona con experiencia en análisis de datos y machine learning, con un enfoque en la mejora de procesos mediante el uso de herramientas avanzadas y metodologías ágiles. He trabajado en proyectos que involucran el desarrollo de soluciones de software, desde aplicaciones web hasta plataformas interactivas, con un dominio de herramientas como Google Colab, Flutter y Firebase. Poseo sólidos conocimientos en el diseño y desarrollo de interfaces de usuario, además de tener una gran capacidad para resolver problemas mediante la implementación de modelos de machine learning.
 

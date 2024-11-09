@@ -30,6 +30,12 @@ AGAPSA Cuapiaxtla (Mayo-Agosto 2023)
 - Diseño y tratado de imagenes.
 - *Tecnologías*: Unity 3D, Blender, Illustrator, Photoshop.
 
+Desarrollador Principal*  
+Enfermeria UTT (Agosto-Diciembre 2033)
+- Creación de una plataforma para el regsitro de citas medicas dentro de la universidad.
+- Integracion de información de salud y contenido multimedia.
+- *Tecnologías*: Flutter, Firebase.
+
 *Fundador y Desarrollador Principal*  
 GONORT TECH (Mayo 2024 - Presente)
 - Creación de una plataforma para la venta de accesorios y agendamiento de reparaciones de celulares.

@@ -30,7 +30,7 @@ AGAPSA Cuapiaxtla (Mayo-Agosto 2023)
 - Diseño y tratado de imagenes.
 - *Tecnologías*: Unity 3D, Blender, Illustrator, Photoshop.
 
-Desarrollador Principal*  
+*Desarrollador Principal*  
 Enfermeria UTT (Agosto-Diciembre 2033)
 - Creación de una plataforma para el regsitro de citas medicas dentro de la universidad.
 - Integracion de información de salud y contenido multimedia.

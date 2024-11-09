@@ -20,7 +20,7 @@ Actualmente, me encuentro desarrollando un proyecto propio llamado GONORT TECH, 
 *Desarrollador Web para negocio*  
 EL BOTANERO Huamantla (Abril-Agosto 2022)
 - Desarrollo de aplicaciones web usando frameworks modernos.
-- Integración y funcionalidades de bases de datos (MSQL).
+- Integración y funcionalidades de bases de datos (MYSQL).
 
 *Desarrollador para aplicación de realidad aumentada"*  
 AGAPSA Cuapiaxtla (Mayo-Agosto 2023)

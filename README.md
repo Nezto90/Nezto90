@@ -39,10 +39,10 @@ GONORT TECH (Mayo 2024 - Presente)
 ---
 
 ## 💻 Habilidades Técnicas
-- *Lenguajes*: Python, JavaScript, Dart, HTML, CSS
-- *Frameworks*: Flutter, React
-- *Herramientas*: Firebase, MYSQL, Mongo DB, Google Colab, Git, GitHub
-- *Diseño*: Figma, Photoshop, Illustrator, Adobe Premier 
+- *Lenguajes*: Python, JavaScript, Dart, HTML, CSS, JavaScript.
+- *Frameworks*: Flutter, React.
+- *Herramientas*: Firebase, MYSQL, Mongo DB, Google Colab, Git, GitHub.
+- *Diseño*: Figma, Photoshop, Illustrator, Adobe Premier.
 
 ---
 

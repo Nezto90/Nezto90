@@ -34,7 +34,7 @@ AGAPSA Cuapiaxtla (Mayo-Agosto 2023)
 GONORT TECH (Mayo 2024 - Presente)
 - Creación de una plataforma para la venta de accesorios y agendamiento de reparaciones de celulares.
 - Gestión de la infraestructura web con enfoque en la experiencia de usuario.
-- *Tecnologías*: Flutter, Firebase
+- *Tecnologías*: Flutter, Firebase.
 
 ---
 

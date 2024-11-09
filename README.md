@@ -1,10 +1,11 @@
-# Carlos Ernesto Juarez Hernandez
+# Carlos Ernesto Juárez Hernández
 ![Foto de perfil](IMG_8329.jpg)
 ### Contacto
 - 📍 San Sebastián, calle Fernando Montes de Oca, Huamantla, Tlaxcala
 - 📧 carlosernestojuarez647@gmail.com
 - 📱 +52 247 104 3660
 - [X](https://x.com/NeztoGGz?t=tvG4_27QTH0-YHDe5krv5w&s=09) | [Indeed](https://profile.indeed.com/?hl=es_MX&co=MX&from=gnav-homepage)
+- [Curriculum_PDF](Currículum_JuarezCarlos.pdf)
 
 ---
 ## 🙋‍♂️ Quien Soy
@@ -43,6 +44,19 @@ GONORT TECH (Mayo 2024 - Presente)
 - *Herramientas*: Firebase, MYSQL, Mongo DB, Google Colab, Git, GitHub
 - *Diseño*: Figma, Photoshop, Illustrator, Adobe Premier 
 
+---
+
+## 💻 Competencias Interpersonales
+- Comunicación efectiva
+- Trabajo en equipo
+- Empatía
+- Resolución de conflictos
+- Adaptabilidad
+- Proactividad
+- Creatividad
+- Colaboración
+- Liderazgo
+  
 ---
 
 ## 📚 Educación

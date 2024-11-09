@@ -37,7 +37,7 @@ Enfermeria UTT (Agosto-Diciembre 2033)
 - *Tecnologías*: Flutter, Firebase.
 
 *Fundador y Desarrollador Principal*  
-GONORT TECH (Mayo 2024 - Presente)
+GONORT TECH (Septiembre 2024 - Presente)
 - Creación de una plataforma para la venta de accesorios y agendamiento de reparaciones de celulares.
 - Gestión de la infraestructura web con enfoque en la experiencia de usuario.
 - *Tecnologías*: Flutter, Firebase.

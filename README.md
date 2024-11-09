@@ -46,7 +46,7 @@ GONORT TECH (Mayo 2024 - Presente)
 
 ---
 
-## 💻 Competencias Interpersonales
+## 🦾 Competencias Interpersonales
 - Comunicación efectiva
 - Trabajo en equipo
 - Empatía

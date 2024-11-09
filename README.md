@@ -1,5 +1,5 @@
 <img src="banner.png" alt="Foto de perfil" aling="center">
-        <h1>Carlos Ernesto Juárez Hernandez - Desarrollador De Software</h1>
+        <h1>Carlos Ernesto Juárez Hernández</h1>
         <img src="IMG_8329.jpg" alt="Foto de perfil" aling="center"
     </div>
      <div class="me">
@@ -13,7 +13,7 @@ Actualmente, me encuentro desarrollando un proyecto propio llamado GONORT TECH, 
     <div class="skills">
         <h2 class="section-title">Habilidades</h2>
         <ul>
-            <li>Lenguajes de programación:HTML, CSS, C#, R, Flutter</li>
+            <li>Lenguajes de programación:HTML, CSS, JavaScript, C#, R, Flutter</li>
             <li>Idiomas: Español, Inglés A2</li>
             <li>Data de interés: Machine Learning, Desarrollo de aplicaciones web, Desarrollo de aplicaciones AR</li>
             <li>Experiencia en proyectos: Desarrollo de aplicaciones web para clientes,Desarrollo de aplicaciones AR para clientes </li>
@@ -29,13 +29,17 @@ Actualmente, me encuentro desarrollando un proyecto propio llamado GONORT TECH, 
         <h2 class="section-title">Proyectos</h2>
         <div class="project-card">
             <h3>Proyecto 1</h3>
-            <p>Desarollo de aplicación movil para la enfermeria UTT
-                    <img src="WhatsApp Image 2024-08-07 at 9.59.05 AM.jpeg" alt="Foto de perfil"> .</p>
+            <p>Desarollo de aplicación movil para la enfermeria UTT.</p>
         </div>
         <div class="project-card">
             <h3>Proyecto 2</h3>
             <p>Desarrollo de aplicación de realidad aumentada para la empresa AGAPSA. Link del APK: https://drive.google.com/file/d/1uANbifbSAIuOSbjcR_9g2m_Kt7kLQDya/view?usp=drive_link</p>
-           <img src="Captura de pantalla 2024-10-26 141400.png" alt="Foto de perfil">
+           <img src="Captura de pantalla 2024-10-26 141400.png" alt="image" height="500" width="300">
+        </div>
+        <div class="project-card">
+            <h3>Proyecto 3</h3>
+            <p>Videojuego Snake en JavaScript</p>
+          
         </div>
     </div>
     <div class="contact">

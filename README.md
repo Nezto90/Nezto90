@@ -22,7 +22,7 @@ EL BOTANERO Huamantla (Abril-Agosto 2022)
 - Desarrollo de aplicaciones web usando frameworks modernos.
 - Integración y funcionalidades de bases de datos (MYSQL).
 
-*Desarrollador para aplicación de realidad aumentada"*  
+*Desarrollador para aplicación de realidad aumentada*  
 AGAPSA Cuapiaxtla (Mayo-Agosto 2023)
 - Desarrollo de aplicación de realidad aumentada usando Unity 3D.
 - Integración de herramientas actuales para AR (AR Fundation).
